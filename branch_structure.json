@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1556-issue-091-add-notification-preference-api",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1556-issue-091-add-notification-preference-api": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1556-issue-091-add-notification-preference-api",
+    "origin"
+  ]
+}
